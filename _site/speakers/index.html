@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
+
+  <script>
+    var shiftWindow = function() { scrollBy(0, -50) };
+    window.addEventListener("hashchange", shiftWindow);
+    function load() { if (window.location.hash) shiftWindow(); }
+  </script>
+  
+  <title>Speakers &amp; Panelists</title>
+
+  <meta name="author" content="" />
+
+  
+
+  <!--  -->
+
+  <link rel="alternate" type="application/rss+xml" title="Interactive Learning Agents Workshop at ICLR'25 - Interactive Learning Agents" href="/feed.xml" />
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+  
+
+  
+
+  
+
+  <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="Speakers &amp; Panelists" />
+  
+
+  
+  <meta property="og:description" content="# Speakers &amp; Panelists
+
+  {% for p in site.data.speakers %}
+  {% if forloop.index
+    
+    {% capture id %}{{ p[0] }}{% endcapture %}
+    {% include profile.html p=p %}
+    
+    
+    {% capture id %}{{ p[1] }}{% endcapture %}
+    {% include profile_detail.html p=p %}
+    
+  
+  
+  {% endif %}
+  {% endfor %}
+
+">
+  
+
+  <meta name="image" property="og:image" content="https://mathai2022.github.io/img/logo/1600_1200.png">
+  
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://localhost:4000/speakers/" />
+  <link rel="canonical" href="http://localhost:4000/speakers/" />
+  
+
+  
+
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@" />
+  <meta name="twitter:creator" content="@" />
+
+  
+  <meta name="twitter:title" content="Speakers &amp; Panelists" />
+  
+
+  
+  <meta name="twitter:description" content="# Speakers &amp; Panelists
+
+  {% for p in site.data.speakers %}
+  {% if forloop.index
+    
+    {% capture id %}{{ p[0] }}{% endcapture %}
+    {% include profile.html p=p %}
+    
+    
+    {% capture id %}{{ p[1] }}{% endcapture %}
+    {% include profile_detail.html p=p %}
+    
+  
+  
+  {% endif %}
+  {% endfor %}
+
+">
+  
+
+  
+
+  
+
+  
+
+  <!-- <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5f3db91ed400420012d0a68e&product=inline-share-buttons" async="async"></script> -->
+</head>
+
+
+  <body>
+
+    
+
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button
+        type="button"
+        class="navbar-toggle"
+        data-toggle="collapse"
+        data-target="#main-navbar"
+      >
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <a class="navbar-brand" href="http://localhost:4000/">Interactive Learning Agents Workshop at ICLR'25</a>
+      
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+         
+        <li>
+          
+
+
+
+
+
+
+<a href="/cfp">Call</a>
+
+        </li>
+          
+        <li>
+          
+
+
+
+
+
+
+<a href="/speakers">Speakers&Panelists</a>
+
+        </li>
+          
+        <li>
+          
+
+
+
+
+
+
+<a href="/papers">Papers</a>
+
+        </li>
+          
+        <li>
+          
+
+
+
+
+
+
+<a href="/schedule">Schedule</a>
+
+        </li>
+         
+      </ul>
+    </div>
+
+    
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <!-- <div class="row"> -->
+      <!-- <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1"> -->
+        <div class="page-heading">
+          <h1 style="font-size: 42px;">Speakers &amp; Panelists</h1>
+		  
+		  
+		  
+        </div>
+      <!-- </div> -->
+    <!-- </div> -->
+  </div>
+</div>
+</header>
+
+
+
+
+
+<div class="container" role="main">
+  <h1 id="speakers--panelists">Speakers &amp; Panelists</h1>
+<div class="container" style="margin-top: 25px;margin-bottom: 40px;">
+  
+  
+  <div class="row">
+    <div class="col-sm">
+    
+    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="nbrown" style="height: 300px">
+  <img src="/img/nbrown.jpg" alt="Noam Brown" class="img-circle" style="width: 200px;margin:5px" />
+  <br />
+  <a href="https://noambrown.github.io/">Noam Brown</a>
+  <br />
+  OpenAI
+</div>
+
+    </div>
+    <div class="col">
+    
+    <div class="col-md-6 offset-md-2" id="nbrown">
+  Noam Brown is a research scientist at OpenAI working on multi-step reasoning, self-play, and multi-agent AI. He previously developed CICERO, the first AI to achieve human-level performance at Diplomacy and previously created the first AI to defeat top humans in no-limit poker.
+</div>
+    </div>
+  </div>
+  <br />
+  
+  
+  
+  <div class="row">
+    <div class="col-sm">
+    
+    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="kalesha" style="height: 300px">
+  <img src="/img/kalesha.jpg" alt="Kalesha Bullard" class="img-circle" style="width: 200px;margin:5px" />
+  <br />
+  <a href="https://www.kaleshabullard.com/">Kalesha Bullard</a>
+  <br />
+  DeepMind
+</div>
+
+    </div>
+    <div class="col">
+    
+    <div class="col-md-6 offset-md-2" id="kalesha">
+  Kalesha Bullard is a Research Scientist at Google DeepMind in London, specializing in multi-agent systems. She completed a postdoc at FAIR, focusing on Multi-Agent Reinforcement Learning and zero-shot communication for embodied agents. Kalesha earned her PhD in Computer Science at Georgia Tech, where she researched interactive robot learning and active learning in dynamic environments. Her interests include autonomous reasoning and decision-making in multi-agent settings, emphasizing social influence and cooperative learning.
+</div>
+    </div>
+  </div>
+  <br />
+  
+  
+  
+  <div class="row">
+    <div class="col-sm">
+    
+    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="chijin" style="height: 300px">
+  <img src="/img/chijin.jpg" alt="Chi Jin" class="img-circle" style="width: 200px;margin:5px" />
+  <br />
+  <a href="https://ece.princeton.edu/people/chi-jin">Chi Jin</a>
+  <br />
+  Princeton University
+</div>
+
+    </div>
+    <div class="col">
+    
+    <div class="col-md-6 offset-md-2" id="chijin">
+  Chi Jin is an Assistant Professor of Electrical Engineering at Princeton University. He earned his PhD in Computer Science from UC Berkeley under the guidance of Michael I. Jordan, and holds a B.S. in Physics from Peking University. Chi's research centers on the decision-making aspects of machine learning, with a particular emphasis on reinforcement learning, game theory, and multi-agent learning. His work aims to develop intelligent agents capable of complex strategies, advanced reasoning, and planning.
+</div>
+    </div>
+  </div>
+  <br />
+  
+  
+  
+  <div class="row">
+    <div class="col-sm">
+    
+    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="samuel" style="height: 300px">
+  <img src="/img/samuel.jpg" alt="Samuel Sokota" class="img-circle" style="width: 200px;margin:5px" />
+  <br />
+  <a href="https://ssokota.github.io/">Samuel Sokota</a>
+  <br />
+  Carnegie Mellon University
+</div>
+
+    </div>
+    <div class="col">
+    
+    <div class="col-md-6 offset-md-2" id="samuel">
+  Samuel Sokota is a PhD student in the Machine Learning Department at Carnegie Mellon University, supervised by Zico Kolter. Previously, he did his master’s at the University of Alberta, where he worked with Marc Lanctot and Martha White. Before that, he did his undergraduate at Swarthmore College, where he studied mathematics and physics, working with Bryce Wiedenbeck.
+</div>
+    </div>
+  </div>
+  <br />
+  
+  
+  
+  <div class="row">
+    <div class="col-sm">
+    
+    <div class="col-xs-6 col-sm-4 col-lg-2 col-xl-2 text-center" id="shunyu" style="height: 300px">
+  <img src="/img/shunyu.jpg" alt="Shunyu Yao" class="img-circle" style="width: 200px;margin:5px" />
+  <br />
+  <a href="https://ysymyth.github.io/">Shunyu Yao</a>
+  <br />
+  OpenAI
+</div>
+
+    </div>
+    <div class="col">
+    
+    <div class="col-md-6 offset-md-2" id="shunyu">
+  Shunyu Yao is a Research Scientist at OpenAI. His main area of interest is Language Agents: a new category of agents that use LLMs to act, allowing them to interact with digital environments and solve complex problems. Before OpenAI, Shunyu was a PhD student at the Princeton NLP group working with Karthik Narasimhan. Among his most notable contributions is the Tree of Thoughts framework, which explores how LLMs can be used for deliberate problem-solving through structured planning.
+</div>
+    </div>
+  </div>
+  <br />
+  
+  
+</div>
+
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      
+    </div>
+  </div>
+</div>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <!--<h4>Sponsor:</h4>
+      <a href='https://www.amazon.science/'><img src="http://localhost:4000/2020/img/amazon_science.png" height="140px"></a>-->
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links"><li><a href="mailto:mathai.neurips2024@gmail.com" title="Email me"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">Email me</span>
+              </a>
+            </li></ul>
+      <p class="copyright text-muted">
+      
+      &nbsp;&bull;&nbsp;
+      2024
+
+      
+
+      
+      </p>
+          <!-- Please don't remove this, keep my open source work credited :) -->
+    <p class="theme-by text-muted">
+      Theme by
+      <a href="https://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+    </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+  
+  </body>
+</html>

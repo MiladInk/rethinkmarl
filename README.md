@@ -1,4 +1,4 @@
-# mathai2024.github.io
+# rethinkmark.github.io
 
 
 ```
