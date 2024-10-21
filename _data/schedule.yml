@@ -1,0 +1,89 @@
+opening:
+  event: "Introduction"
+  start: "08:45"
+  type: "General"
+
+noambrown:
+  event: "nbrown"
+  title: "Invited Talk"
+  speaker: "Noam Brown"
+  start: "09:00"
+  type: "Invited"
+
+kbullard:
+  event: "kalesha"
+  title: "Invited Talk"
+  speaker: "Kalesha Bullard"
+  start: "09:30"
+  type: "Invited"
+
+coffee_break:
+  event: "Coffee Break"
+  title: ""
+  start: "10:00"
+  type: "General"
+
+chijin:
+  event: "chijin"
+  title: "Invited Talk"
+  speaker: "Chi Jin"
+  start: "10:15"
+  type: "Invited"
+
+spotlights_1:
+  event: "Spotlights"
+  title: "Spotlight Talks (4)"
+  start: "10:45"
+  type: "Spotlights"
+
+lunch:
+  event: "Lunch"
+  title: ""
+  start: "11:45"
+  type: "General"
+
+poster_session:
+  event: "Poster Session"
+  title: ""
+  start: "12:45"
+  type: "General"
+
+spotlights_2:
+  event: "Spotlights"
+  title: "Spotlight Talks (2)"
+  start: "13:30"
+  type: "Spotlights"
+
+syao:
+  event: "shunyu"
+  title: "Invited Talk"
+  speaker: "Shunyu Yao"
+  start: "14:00"
+  type: "Invited"
+
+samuel:
+  event: "samuel"
+  title: "Invited Talk"
+  speaker: "Samuel Sokota"
+  start: "14:30"
+  type: "Invited"
+
+panel_discussion:
+  event: "Panel Discussion"
+  title: "Interactive Learning: Key Open Questions"
+  description: "Explore key open questions in interactive learning. Highlight interesting problems for academic research, especially for PhD students."
+  start: "15:00"
+  type: "Panel"
+
+closing_remarks:
+  event: "Closing Remarks"
+  title: ""
+  start: "15:30"
+  type: "General"
+
+social_hour:
+  event: "Social Hour"
+  title: "Discussion and Networking"
+  description: "An informal social hour to discuss ideas and reflect on the day's talks."
+  start: "15:45"
+  type: "General"

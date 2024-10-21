@@ -1,0 +1,30 @@
+nbrown:
+    name: "Noam Brown"
+    url: "https://noambrown.github.io/"
+    affiliation: "OpenAI"
+    img: "nbrown.jpg"
+    bio: "Noam Brown is a research scientist at OpenAI working on multi-step reasoning, self-play, and multi-agent AI. He previously developed CICERO, the first AI to achieve human-level performance at Diplomacy and previously created the first AI to defeat top humans in no-limit poker."
+kalesha:
+    name: "Kalesha Bullard"
+    url: "https://www.kaleshabullard.com/"
+    affiliation: "DeepMind"
+    img: "kalesha.jpg"
+    bio: "Kalesha Bullard is a Research Scientist at Google DeepMind in London, specializing in multi-agent systems. She completed a postdoc at FAIR, focusing on Multi-Agent Reinforcement Learning and zero-shot communication for embodied agents. Kalesha earned her PhD in Computer Science at Georgia Tech, where she researched interactive robot learning and active learning in dynamic environments. Her interests include autonomous reasoning and decision-making in multi-agent settings, emphasizing social influence and cooperative learning."
+chijin:
+    name: "Chi Jin"
+    url: "https://ece.princeton.edu/people/chi-jin"
+    affiliation: "Princeton University"
+    img: "chijin.jpg"
+    bio: "Chi Jin is an Assistant Professor of Electrical Engineering at Princeton University. He earned his PhD in Computer Science from UC Berkeley under the guidance of Michael I. Jordan, and holds a B.S. in Physics from Peking University. Chi's research centers on the decision-making aspects of machine learning, with a particular emphasis on reinforcement learning, game theory, and multi-agent learning. His work aims to develop intelligent agents capable of complex strategies, advanced reasoning, and planning."
+samuel:
+    name: "Samuel Sokota"
+    url: "https://ssokota.github.io/"
+    affiliation: "Carnegie Mellon University"
+    img: "samuel.jpg"
+    bio: "Samuel Sokota is a PhD student in the Machine Learning Department at Carnegie Mellon University, supervised by Zico Kolter. Previously, he did his master’s at the University of Alberta, where he worked with Marc Lanctot and Martha White. Before that, he did his undergraduate at Swarthmore College, where he studied mathematics and physics, working with Bryce Wiedenbeck."
+shunyu:
+    name: "Shunyu Yao"
+    url: "https://ysymyth.github.io/"
+    affiliation: "OpenAI"
+    img: "shunyu.jpg"
+    bio: "Shunyu Yao is a Research Scientist at OpenAI. His main area of interest is Language Agents: a new category of agents that use LLMs to act, allowing them to interact with digital environments and solve complex problems. Before OpenAI, Shunyu was a PhD student at the Princeton NLP group working with Karthik Narasimhan. Among his most notable contributions is the Tree of Thoughts framework, which explores how LLMs can be used for deliberate problem-solving through structured planning."
