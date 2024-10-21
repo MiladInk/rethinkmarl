@@ -20,7 +20,8 @@ description: Interactive Learning Agents
 navbar-links:  
   Call: "cfp"
   # Dates: "#dates"
-  Speakers&Panelists: "speakers"
+  Speakers: "speakers"
+  Advisors: "advisors"
   Papers: "papers"
   Schedule: "schedule"
   # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"

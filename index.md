@@ -66,6 +66,31 @@ The workshop will feature keynote presentations, panel discussions, and interact
 
 <hr>
 
+# Advisors
+
+<!-- prettier-ignore -->
+<div class="container" style="margin-top: 25px;margin-bottom: 40px;">
+  <!-- <br> 
+  <div class="row" style="margin: -30px;"> -->
+  <div class="row">
+    {% for p in site.data.advisors %}
+    {% if forloop.index<=4 %}
+    {% capture id %}{{ p[0] }}{% endcapture %}
+    {% include profile.html p=p %}
+    {% endif %}
+    {% endfor %}
+  </div>
+  <div class="row">
+    {% for p in site.data.advisors %}
+    {% capture id %}{{ p[0] }}{% endcapture %}
+    {% if forloop.index>4 and forloop.index<=8%}
+    {% include profile.html p=p %}
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>
+<hr>
+
 # Organizers
 <!-- # Organizers -->
 
@@ -91,6 +116,10 @@ The workshop will feature keynote presentations, panel discussions, and interact
   </div>
 </div>
 <hr>
+
+
+
+
 
 <!-- # Program Committee
 <div class="container">

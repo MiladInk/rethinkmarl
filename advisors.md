@@ -5,9 +5,9 @@ subtitle: ""
 use-site-title: true
 ---
 
-# Speakers & Panelists
+# Advisors
 <div class="container" style="margin-top: 25px;margin-bottom: 40px;">
-  {% for p in site.data.speakers %}
+  {% for p in site.data.advisors %}
   {% if forloop.index<15 %}
   <div class="row">
     <div class="col-sm">
