@@ -19,20 +19,45 @@ use-site-title: true
 
 **Note that this is a website made for workshop proposal and the workshop is yet to be accepted to ICLR to be organized**
 
-# Overview
+# Workshop Summary
 
-The Interacting Learning Agents workshop aims to bring together researchers and practitioners to explore the latest developments and open questions in multi-agent systems. It will focus on opponent shaping, learning awareness, and integrating safety protocols in multi-agent interactions.
+The "Rethinking MARL in the Era of Agentic LLMs" workshop will explore the latest advancements in multi-agent reinforcement learning (MARL) and the role of large language models (LLMs) in these systems. With the rapid development of LLMs, which are evolving from passive language processors to agents capable of complex reasoning and interaction, we are faced with both new opportunities and challenges in multi-agent systems.
 
-Recent work has shown the potential of multi-agent learning to enable continuous learning and adaptation of autonomous agents in non-stationary, sequential decision-making problems. Successful application domains include strategic games like Diplomacy and Stratego, as well as real-world settings such as self-driving and AI assistants. With the advancements in artificial intelligence and the availability of large language models (LLMs), agents in multi-agent environments have expanded capabilities, such as the ability to interact through language and access human data. This increased complexity requires a deeper understanding of agent interactions, learning processes, and protocols to guarantee safety in their operations.
-Key topics to be discussed include:
-- **Coordination and Cooperation**: Mechanisms to facilitate cooperation and coordination in general-sum games between agents to achieve common goals efficiently. What are the advancements and challenges in games and real-world settings that involve coordination?  
-- **Opponent Shaping**: Techniques for agents to influence and adapt to their opponent's strategies, enhancing competitive interactions. 
-- **Multi-agent Agentic LLMs**: Tentative research questions: What are the main bottlenecks in integrating LLMs in multi-agent settings? 
-Debate and Persuasion: Exploring how agents can engage in structured debates and persuasive dialogues to resolve conflicts and reach consensus. How can LLMs facilitate coordination in general-sum games? 
-- **Decision-making with a mixture of experts**: Exploring how contradicting preferences can be aggregated and how human and agent suggestions should be weighted. 
-- **Tentative research questions**: What metrics can quantify the importance of suggestions? 
-- **Evaluation and Safety in Multi-agent Systems**: Addressing the critical aspect of safety in multi-agent systems, ensuring robust and secure operations in dynamic environments.
-The workshop will feature keynote presentations, panel discussions, and interactive sessions to foster collaboration and knowledge exchange among participants. By immersing into these diverse yet interconnected topics, the "Interacting Learning Agents" workshop aims to push the boundaries of multi-agent research and pave the way for more sophisticated, cooperative, and safe AI systems.
+LLMs can represent users in complex multi-agent scenarios, collaborating or negotiating with other agents to perform tasks like scheduling meetings or resolving conflicts. This workshop will address how integrating agentic LLMs into multi-agent systems requires new approaches to coordination, communication, safety, and learning dynamics. We will explore these interactions beyond LLMs, extending to all forms of learning agents in multi-agent environments. The workshop aims to inspire innovations in multi-agent reinforcement learning methods for agentic LLMs and sequential decision-making.
+
+By bringing together researchers and practitioners at ICLR 2025, this workshop will focus on key topics such as interacting LLMs, opponent shaping, integrating safety protocols in multi-agent systems, and more. For example, a central question in the field is whether LLMs are necessary for improving performance in MARL or whether tabula rasa learning remains sufficient, and in which scenarios LLMs offer the most benefits. As agents in multi-agent environments become increasingly capable, it is crucial to deepen our understanding of their interactions and ensure safe, efficient operations in complex scenarios.
+
+# Topics of Interest
+
+The workshop will cover a wide range of topics relevant to interacting learning agents, including but not limited to:
+
+- **Interacting LLMs**: Leveraging the power of large language models to enhance communication and decision-making in multi-agent environments.
+- **Safety in Multi-Agent Interactions**: Ensuring safety protocols are adhered to in agent-agent and agent-human interactions to avoid unintended consequences.
+- **Multi-Agent Systems**: Advancements in the design and optimization of systems involving multiple learning agents, such as deep MARL algorithms.
+- **Coordination and Cooperation**: Exploring strategies and algorithms to facilitate effective coordination and cooperation among agents.
+- **Debate and Persuasion**: Mechanisms for enabling agents to engage in structured debates and persuasion to resolve conflicts and reach consensus.
+- **Opponent Shaping**: Techniques to understand, predict, and influence the behavior and learning dynamics of other agents.
+
+# Key Questions
+
+The workshop will address several key questions through discussions and expert panels, including:
+
+- How can we develop LLM systems that excel in multi-agentic interactions?
+- What role can LLMs play in enhancing the learning dynamics of multi-agentic systems?
+- How can safety be ensured in interactions between multiple agents?
+- What design principles encourage robust, scalable cooperation in multi-agent systems?
+- How can opponent shaping and learning awareness be integrated effectively in multi-agent contexts?
+- How can debate and persuasion techniques be applied among learning agents to resolve conflicts?
+
+# Other Goals
+
+The primary goal of this workshop is to bring together researchers from academia and industry to share insights, present research findings, and discuss the latest developments in multi-agent systems. Key objectives include:
+
+- Advancing the understanding of how learning agents interact and learn from each other in multi-agent environments.
+- Promoting the development of new algorithms and frameworks for agent coordination and cooperation.
+- Emphasizing the importance of safety and ethical considerations in multi-agent interactions.
+- Showcasing the potential of LLMs to enhance the capabilities of multi-agent systems.
+
 <hr>
 
 # Speakers
