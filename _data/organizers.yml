@@ -1,36 +1,25 @@
-duque:
-  name: "Juan Augustin Duque"
-  url: "https://x.com/juanduquevan"
-  affiliation: "Mila"
-  img: "juan.png"
-seth:
-  name: "Seth Karten"
-  url: "https://sethkarten.ai/"
-  affiliation: "Princeton"
-  img: "seth.jpg"
-daphne:
-  name: "Daphne Cornelisse"
-  url: "https://x.com/daphne_cor?lang=en"
-  affiliation: "NYU"
-  img: "daphne.jpg"
-manfred:
-  name: "Manfred Diaz"
-  url: "https://manfreddiaz.github.io/"
-  affiliation: "Mila & Montreal Robotics"
-  img: "manfred.webp"
-chris:
-  name: "Chris Lu"
-  url: "https://chrislu.page/"
-  affiliation: "OpenAI"
-  img: "chris.jpg"
 milad:
   name: "Milad Aghajohari"
   url: "https://x.com/maghajohari"
   affiliation: "Mila"
   img: "milad.png"
+duque:
+  name: "Juan Augustin Duque"
+  url: "https://x.com/juanduquevan"
+  affiliation: "Mila"
+  img: "juan.png"
+aaron:
+    name: "Aaron Courville"
+    url: "https://mila.quebec/en/directory/aaron-courville"
+    affiliation: "UdeM, Mila"
+    img: "aaron.webp"
+seth:
+  name: "Seth Karten"
+  url: "https://sethkarten.ai/"
+  affiliation: "Princeton"
+  img: "seth.jpg"
 timon:
   name: "Timon Willi"
   url: "https://www.timonwilli.com/#"
   affiliation: "University of Oxford"
   img: "timon.jpg"
-

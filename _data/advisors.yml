@@ -8,17 +8,6 @@ research scientist at Google Deepmind. He was the head of research at DigitalGen
 based startup developing deep learning-based chatbots for customer service. Before that, Bachrach
 was a researcher in the machine learning group at Microsoft Research, Cambridge, UK. He received
 a PhD in computer science from the Hebrew University of Jerusalem."
-aaron:
-    name: "Aaron Courville"
-    url: "https://mila.quebec/en/directory/aaron-courville"
-    affiliation: "UdeM, Mila"
-    img: "aaron.webp"
-    bio: "Professor at Universit´e de Montr´eal’s Department of Computer Science and Op-
-erations Research and a founding member of Mila – Quebec Artificial Intelligence Institute. He has
-a PhD from Carnegie Mellon’s Robotics Institute and co-authored a seminal deep learning textbook
-with Ian Goodfellow and Yoshua Bengio. His research focuses on deep learning models, partic-
-ularly in reinforcement learning, deep generative models, and multimodal machine learning, with
-applications in computer vision and natural language processing."
 jakob:
     name: "Jakob Foerster"
     url: "https://www.jakobfoerster.com/"

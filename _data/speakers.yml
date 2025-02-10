@@ -22,9 +22,12 @@ samuel:
     affiliation: "Carnegie Mellon University"
     img: "samuel.jpg"
     bio: "Samuel Sokota is a PhD student in the Machine Learning Department at Carnegie Mellon University, supervised by Zico Kolter. Previously, he did his master’s at the University of Alberta, where he worked with Marc Lanctot and Martha White. Before that, he did his undergraduate at Swarthmore College, where he studied mathematics and physics, working with Bryce Wiedenbeck."
-shunyu:
-    name: "Shunyu Yao"
-    url: "https://ysymyth.github.io/"
-    affiliation: "OpenAI"
-    img: "shunyu.jpg"
-    bio: "Shunyu Yao is a Research Scientist at OpenAI. His main area of interest is Language Agents: a new category of agents that use LLMs to act, allowing them to interact with digital environments and solve complex problems. Before OpenAI, Shunyu was a PhD student at the Princeton NLP group working with Karthik Narasimhan. Among his most notable contributions is the Tree of Thoughts framework, which explores how LLMs can be used for deliberate problem-solving through structured planning."
+max:
+    name: "Max Souza"
+    url: "https://scholar.google.co.uk/citations?user=GMO_9JsAAAAJ&hl=en"
+    affiliation: "Universidade Federal Fluminense"
+    img: "max_souza.jpeg"
+    bio: "Max Souza is an Associate Professor at Universidade Federal Fluminense, specializing in applied mathematics. He earned his PhD from the University of Cambridge and has contributed to research on evolutionary dynamics, including studies on the evolution of cooperation."
+
+
+

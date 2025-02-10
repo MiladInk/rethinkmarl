@@ -54,10 +54,10 @@ spotlights_2:
   start: "13:30"
   type: "Spotlights"
 
-syao:
-  event: "shunyu"
+maxosa:
+  event: "max"
   title: "Invited Talk"
-  speaker: "Shunyu Yao"
+  speaker: "Max Souza"
   start: "14:00"
   type: "Invited"
 
