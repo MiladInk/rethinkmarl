@@ -19,10 +19,6 @@ use-site-title: true
 
 **Note that this is a website made for workshop proposal and the workshop is yet to be accepted to NeurIPS 2025 to be organized**
 
-Here’s the version with all em dashes removed and replaced with clearer alternatives:
-
----
-
 **Workshop Summary**
 
 Large Language Models (LLMs) are no longer just text generators. They are becoming agents that can reason, negotiate, and work together. This shift creates new challenges for Multi-Agent Reinforcement Learning (MARL). Today’s MARL methods often struggle in general-sum settings and can settle on low-welfare Nash equilibria even when better solutions exist. By studying LLM agents in multi-agent scenarios, this workshop will explore new ways to improve coordination, communication, conflict resolution, and safety across all agents. We aim to bring together researchers to push MARL forward for LLM-based agents and other multi-agent systems.
