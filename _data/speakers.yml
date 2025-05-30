@@ -4,12 +4,6 @@ nbrown:
     affiliation: "OpenAI"
     img: "nbrown.jpg"
     bio: "Noam Brown is a research scientist at OpenAI working on multi-step reasoning, self-play, and multi-agent AI. He previously developed CICERO, the first AI to achieve human-level performance at Diplomacy and previously created the first AI to defeat top humans in no-limit poker."
-kalesha:
-    name: "Kalesha Bullard"
-    url: "https://www.kaleshabullard.com/"
-    affiliation: "DeepMind"
-    img: "kalesha.jpg"
-    bio: "Kalesha Bullard is a Research Scientist at Google DeepMind in London, specializing in multi-agent systems. She completed a postdoc at FAIR, focusing on Multi-Agent Reinforcement Learning and zero-shot communication for embodied agents. Kalesha earned her PhD in Computer Science at Georgia Tech, where she researched interactive robot learning and active learning in dynamic environments. Her interests include autonomous reasoning and decision-making in multi-agent settings, emphasizing social influence and cooperative learning."
 chijin:
     name: "Chi Jin"
     url: "https://ece.princeton.edu/people/chi-jin"
@@ -22,12 +16,27 @@ samuel:
     affiliation: "Carnegie Mellon University"
     img: "samuel.jpg"
     bio: "Samuel Sokota is a PhD student in the Machine Learning Department at Carnegie Mellon University, supervised by Zico Kolter. Previously, he did his master’s at the University of Alberta, where he worked with Marc Lanctot and Martha White. Before that, he did his undergraduate at Swarthmore College, where he studied mathematics and physics, working with Bryce Wiedenbeck."
+yiling:
+    name: "Yiling Chen"
+    url: ""
+    affiliation: "Harvard University"
+    img: "yiling.jpg"
+    bio: "Yiling Chen is the Gordon McKay Professor of Computer Science at Harvard University. Her research lies at the intersection of computer science and economics, with a focus on the social aspects of computational systems. She was named one of 'AI’s 10 to Watch' by IEEE Intelligent Systems and has received best paper awards at ACM EC, AAMAS, ACM FAT*, and ACM CSCW."
 max:
     name: "Max Souza"
     url: "https://scholar.google.co.uk/citations?user=GMO_9JsAAAAJ&hl=en"
     affiliation: "Universidade Federal Fluminense"
     img: "max_souza.jpeg"
     bio: "Max Souza is an Associate Professor at Universidade Federal Fluminense, specializing in applied mathematics. He earned his PhD from the University of Cambridge and has contributed to research on evolutionary dynamics, including studies on the evolution of cooperation."
+sasha:
+    name: "Sasha Vezhnevets"
+    url: ""
+    affiliation: "Google DeepMind"
+    img: "sasha.jpg"
+    bio: "Sasha Vezhnevets is a Staff Research Scientist at Google DeepMind, based in London, UK. He earned his PhD from ETH Zurich and completed a postdoctoral fellowship at the University of Edinburgh. His research spans hierarchical and multi-agent reinforcement learning, computer vision, and generative agent-based modeling."
+
+
+
 
 
 

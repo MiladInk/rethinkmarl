@@ -8,11 +8,6 @@ duque:
   url: "https://x.com/juanduquevan"
   affiliation: "Mila"
   img: "juan.png"
-aaron:
-    name: "Aaron Courville"
-    url: "https://mila.quebec/en/directory/aaron-courville"
-    affiliation: "UdeM, Mila"
-    img: "aaron.webp"
 seth:
   name: "Seth Karten"
   url: "https://sethkarten.ai/"
@@ -23,3 +18,31 @@ timon:
   url: "https://www.timonwilli.com/#"
   affiliation: "University of Oxford"
   img: "timon.jpg"
+
+andjela:
+    name: "Andjela Mladenovic"
+    url: "https://mila.quebec/en/directory/andjela-mladenovic"
+    affiliation: "Mila & Université de Montréal"
+    img: "andjela.jpg"
+    bio: "Andjela Mladenovic is a PhD candidate at Mila and DIRO at the University of Montreal. Her research focuses on problems at the intersection of game theory and machine learning, with a particular emphasis on cooperation in multi-agent AI systems. She is a recipient of the FRQNT and Mila EDI Fellowship."
+
+kalesha:
+    name: "Kalesha Bullard"
+    url: "https://www.kaleshabullard.com/"
+    affiliation: "Google DeepMind"
+    img: "kalesha.jpg"
+    bio: "Kalesha Bullard is a Research Scientist at Google DeepMind, where she focuses on multi-agent systems. She completed her PhD at Georgia Tech, followed by a postdoctoral position at FAIR. Her research explores robot learning, cooperative AI, and the emergence of communication in embodied agents."
+
+alexander:
+    name: "Alexander Meulemans"
+    url: "https://alexandermeulemans.com/"
+    affiliation: "Google, Zürich"
+    img: "alexander.jpg"
+    bio: "Alexander Meulemans is a Research Scientist on Google’s Paradigms of Intelligence team in Zürich. He studies multi-agent reinforcement learning and prediction-based agency, and is the first author of COALA, a scalable opponent shaping MARL algorithm. He earned his PhD from ETH Zürich."
+
+aaron:
+    name: "Aaron Courville"
+    url: "https://mila.quebec/en/directory/aaron-courville"
+    affiliation: "Université de Montréal & Mila"
+    img: "aaron.webp"
+    bio: "Aaron Courville is a Professor in the Department of Computer Science and Operations Research at Université de Montréal and a founding member of Mila. He co-authored the influential deep learning textbook with Ian Goodfellow and Yoshua Bengio. His research spans reinforcement learning, large language models, and their intersections. He has also organized several major workshops in the field."

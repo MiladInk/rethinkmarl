@@ -25,9 +25,10 @@ marc:
     affiliation: "DeepMind"
     img: "marc.png"
     bio: "Research scientist at Google DeepMind. He was previously a post-doctoral researcher at the Maastricht University Games and AI Group, working with Mark Winands, and completed his PhD at the University of Alberta under Michael Bowling. Before his PhD, he earned his undergraduate and Master's degrees from McGill University, supervised by Clark Verbrugge. Lanctot's research interests include general multiagent learning, computational game theory, reinforcement learning, and game-tree search."
-eugene:
-    name: "Eugene Vinitsky"
-    url: "https://www.eugenevinitsky.com/"
-    affiliation: "NYU Tandon"
-    img: "eugene.jpg"
-    bio: "Assistant Professor at NYU Tandon in 2023, specializing in Civil Engineering, with a PhD in control from UC Berkeley under Alexandre Bayen. His research focuses on the emergence of complex, human-like behavior from unsupervised interactions between groups of learning agents, with applications in robotics and transportation. He explores key questions in reinforcement learning (RL), such as modeling human agents, ensuring human-compatible RL agents, and creating environments that challenge and test agents' capabilities."
+
+gauthier:
+    name: "Gauthier Gidel"
+    url: ""
+    affiliation: "Université de Montréal & Mila"
+    img: "gauthier.webp"
+    bio: "Gauthier Gidel is an Assistant Professor in the Department of Computer Science and Operations Research at Université de Montréal and a core academic member of Mila, where he holds a Canada CIFAR AI Chair. His research focuses on min–max optimization and game-theoretic learning methods, with applications to generative adversarial models and multi-agent reinforcement learning."
